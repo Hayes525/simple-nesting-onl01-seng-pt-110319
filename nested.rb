@@ -123,7 +123,7 @@ def changing_alan
      }
      #change what Alan Kay is :known_for to the value of the alans_new_info variable.
      alans_new_info = "GUI"
-		 alan_kay => {
+		 alan_kay = {
 			:known_for => "Object Orientation", "GUI"
 			:languages => ["Smalltalk", "LISP"]
 		 }
