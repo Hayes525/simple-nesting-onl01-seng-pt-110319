@@ -127,7 +127,6 @@ def changing_alan
 			:known_for => "Object Orientation", "GUI"
 			:languages => ["Smalltalk", "LISP"]
 		 }
-		 programmer_hash
 end
 
 def adding_to_dennis
